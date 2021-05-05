@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Manifest Include="StarGenerator.exe.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DialogWindow.cpp" />
+    <ClCompile Include="glExtension.cpp" />
+    <ClCompile Include="Line.cpp" />
+    <ClCompile Include="Log.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Matrices.cpp" />
+    <ClCompile Include="ModelGL.cpp" />
+    <ClCompile Include="procedure.cpp" />
+    <ClCompile Include="Star.cpp" />
+    <ClCompile Include="ViewForm.cpp" />
+    <ClCompile Include="ViewGL.cpp" />
+    <ClCompile Include="wcharUtil.cpp" />
+    <ClCompile Include="Window.cpp" />
+    <ClCompile Include="Controller.cpp" />
+    <ClCompile Include="ControllerForm.cpp" />
+    <ClCompile Include="ControllerGL.cpp" />
+    <ClCompile Include="ControllerMain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Controls.h" />
+    <ClInclude Include="DialogWindow.h" />
+    <ClInclude Include="glExtension.h" />
+    <ClInclude Include="Line.h" />
+    <ClInclude Include="Log.h" />
+    <ClInclude Include="logResource.h" />
+    <ClInclude Include="Matrices.h" />
+    <ClInclude Include="ModelGL.h" />
+    <ClInclude Include="procedure.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Star.h" />
+    <ClInclude Include="Vectors.h" />
+    <ClInclude Include="ViewForm.h" />
+    <ClInclude Include="ViewGL.h" />
+    <ClInclude Include="wcharUtil.h" />
+    <ClInclude Include="Window.h" />
+    <ClInclude Include="Controller.h" />
+    <ClInclude Include="ControllerForm.h" />
+    <ClInclude Include="ControllerGL.h" />
+    <ClInclude Include="ControllerMain.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="log.rc" />
+    <ResourceCompile Include="StarGenerator.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="songho.ico" />
+    <Image Include="songho_alpha.bmp" />
+    <Image Include="bitmap1.bmp" />
+  </ItemGroup>
+</Project>

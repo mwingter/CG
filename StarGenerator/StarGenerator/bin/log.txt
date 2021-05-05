@@ -1,0 +1,28 @@
+===== Log started at 2021-05-04, 18:17:15. =====
+
+18:17:15  Main window is created.
+18:17:15  Creating a dummy window to use WGL_ARB_pixel_format extension.
+18:17:15  WGL_ARB_pixel_format and WGL_ARB_multisample are supported.
+18:17:15  Use wglChoosePixelFormatARB() to find a pixel format with MSAA.
+18:17:15  MSAA mode: 8x
+18:17:15  Pixel Format: 50
+18:17:15  A dummy window is destroyed.
+18:17:15  Initialized OpenGL states.
+18:17:15  Use GL_ARB_shader_objects extension.
+18:17:15  Use GL_ARB_vertex_buffer_object extension.
+18:17:15  Changed OpenGL rendering window size: 1920x1920.
+18:17:15  OpenGL rendering window is created.
+18:17:15  Generating a default 5 pointed star ...
+18:17:15  Form dialog is created.
+18:17:16  Changed OpenGL rendering window size: 796x796.
+18:17:51  Changed OpenGL rendering window size: 798x804.
+18:21:49  Changed OpenGL rendering window size: 1566x1013.
+18:21:50  Closing the application...
+18:21:50  Main windows is destroyed.
+18:21:50  Closed OpenGL rendering context.
+18:21:50  OpenGL window is destroyed.
+18:21:50  Form dialog is destroyed.
+18:21:50  Application is terminated.
+
+
+===== END OF LOG =====
